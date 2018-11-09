@@ -28,7 +28,8 @@ Aria-roles and labels are added to the main sections of the webpages in both the
 This project uses the following libraries to render maps:   
    
 i) [leafletjs](https://leafletjs.com/)  
-ii)[Mapbox](https://www.mapbox.com/).  
+ii)[Mapbox](https://www.mapbox.com/)  
+iii)[Python](https://www.python.org/)
 
 #### How to Use the App
 
